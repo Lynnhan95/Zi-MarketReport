@@ -1,0 +1,181 @@
+.body{
+  font-family: 'Gotham'; 
+  overflow-y: hidden;
+}
+.canvas {
+    font-family: 'Gotham'; 
+}
+*:focus {
+  outline: 0;
+}
+/* font configuration */
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/Gotham-Book.otf") format("otf"),
+}
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/Gotham-Bold.otf") format("otf"),
+}
+@font-face {
+  font-family: "Gotham-medium";
+  src: url("../fonts/Gotham-Medium.otf") format("otf"),
+}
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/Gotham-BookItalic.otf") format("otf"),
+}
+.canvas .inner-wrapper {
+    position: relative;
+    padding-bottom: 60%;
+    width: 100%;
+}
+.canvas .outer-box {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+}
+.canvas .inner-box {
+    width: 100%;
+    height: 100%;
+}
+.canvas text {
+  font-size: 14px;
+}
+.canvas p {
+    font-size: 16px;
+    margin-top:5px;
+    margin-bottom: 40px;
+}
+.canvas .axis path,
+.canvas .axis line {
+    fill: none;
+    stroke: #ccc;
+    stroke-opacity: 0.7;
+}
+.canvas .axis path {
+  stroke-width: 1px;
+}
+.canvas .line {
+  fill: none;
+  stroke-width:3px;
+  shape-rendering: geometricPrecision
+}
+.canvas .overlay {
+  fill: none;
+  pointer-events: all;
+}
+.canvas .focus rect {
+    stroke:#000;
+    stroke-width:1px;
+    stroke-opacity:0.2;
+    fill: #fff;
+}
+.canvas .focus.line {
+    stroke: #ccc;
+    stroke-dasharray: 2.4, 3;
+    stroke-width: 1;
+    opacity: 1;
+}
+.y .tick line{
+  stroke:#ccc
+}
+.y .tick:nth-of-type(1) line{
+  stroke-opacity: 0;
+}
+.y .domain{
+  opacity:0
+}
+.x .domain{
+  stroke-dasharray:2, 2;
+  opacity:0.8
+}
+.tooltip{
+  filter:url(#shadow)
+}
+.box0{
+  font-weight:700;
+  font-size:16px;
+}
+.tooltipTitle{
+  font-size:14px;
+  font-weight:400;
+  font-style: italic
+}
+.tooltipSubtitle{
+  font-weight:700
+}
+.box1 .tooltipSubtitle{
+  fill:#006AFF
+}
+.box2 .tooltipSubtitle{
+  fill:#08C24E
+
+}
+.box3 .tooltipSubtitle{
+  fill:#001751
+}
+select {
+  display: none;
+  border:0px !important;
+  width: 45%; 
+  border-radius:0 !important;
+  font-size: 12px;
+  margin-bottom:2em;
+}
+.control{
+  margin:0em 3em 1em 1.5em;
+}
+.dropdowns{
+  display:flex;
+  flex-direction: row;
+  width:100%;
+  justify-content:space-between;
+}
+.labels {
+  font-family: 'Gotham' !important;
+  font-size:14px !important;
+  margin-bottom:2em !important;
+  margin-right:10px
+}
+.select2-selection{
+  font-family: 'Gotham' !important;
+  font-size:12px !important;
+  border-radius:0px !important;
+}
+.select2-results__option{
+  font-family: 'Gotham' !important;
+  font-size:12px !important;
+}
+.footer, .title{
+  font-size:12px;
+  font-family: "Gotham";
+  margin-left:2em
+}
+.footer{
+  margin-top: -30px;
+}
+.title{
+  margin-bottom: 2em;
+  height:40px;
+}
+.headline{
+  font-size:16px
+}
+.subtitle{
+  font-size:14px;
+}
+.regionName{
+  color:#006BFF;
+  font-weight:700
+}
+.latestVal{
+  color:#0074E4;
+  font-weight: 700
+}
+.label{
+  font-weight:700
+}
+
+
+
+

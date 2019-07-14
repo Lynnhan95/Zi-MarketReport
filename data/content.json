@@ -1,0 +1,21 @@
+[{
+    "name": "title",
+    "content": "Zillow Home Value Index"
+},
+{
+    "name": "subtitle1",
+    "content": "Select a region below to view median home values in that metro. The "
+},
+{
+    "name": "subtitle2",
+    "content": " median home value is "
+},
+{
+    "name": "footer-bold",
+    "content": "Zillow Economic Research | "
+},
+{
+    "name": "footer-line1",
+    "content": "Source: Zillow Home Value Index"
+}
+]

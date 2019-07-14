@@ -1,0 +1,555 @@
+metro,year,median,top,bottom
+United States,1996,100000,173800,59200
+United States,1997,100100,174000,59300
+United States,1998,100300,174400,59400
+United States,1999,100500,174800,59400
+United States,2000,100800,175200,59700
+United States,2001,101000,175700,59800
+United States,2002,101300,176200,59900
+United States,2003,101500,176800,60100
+United States,2004,101900,177500,60300
+United States,2005,102200,178200,60600
+United States,2006,102500,178900,60800
+United States,2007,102800,179500,61000
+United States,2008,103000,180000,61100
+United States,2009,103300,180600,61200
+United States,2010,103600,181100,61400
+United States,2011,104000,181600,61500
+United States,2012,104400,182000,61700
+United States,2013,104700,182400,61900
+United States,2014,105200,182800,62200
+United States,2015,105600,183200,62500
+United States,2016,106100,183600,62800
+United States,2017,106600,184100,63100
+United States,2018,107200,184400,63400
+United States,2019,107700,184700,63700
+United States,2020,108200,185200,64000
+United States,2021,108800,185800,64200
+United States,2022,109400,186500,64500
+United States,2023,110000,187300,64900
+United States,2024,110600,188300,65200
+United States,2025,111100,189400,65600
+United States,2026,111700,190500,65900
+United States,2027,112300,191500,66300
+United States,2028,112900,192600,66600
+United States,2029,113500,193700,66900
+United States,2030,114000,194600,67200
+United States,2031,114400,195500,67500
+United States,2032,114900,196500,67800
+United States,2033,115400,197600,68100
+United States,2034,116100,198700,68500
+United States,2035,116800,200000,68900
+United States,2036,117500,201300,69300
+United States,2037,118300,202700,69700
+United States,2038,119000,204300,70100
+United States,2039,119700,205800,70500
+United States,2040,120600,207600,71000
+United States,2041,121500,209500,71400
+United States,2042,122300,211300,71800
+United States,2043,123000,212800,72200
+United States,2044,123600,214200,72500
+United States,2045,124200,215500,72800
+United States,2046,124800,216700,73100
+United States,2047,125300,217800,73400
+United States,2048,125800,218800,73700
+United States,2049,126200,219900,74000
+United States,2050,126700,221100,74400
+United States,2051,127200,222200,74700
+United States,2052,127900,223500,75100
+United States,2053,128600,224800,75500
+United States,2054,129300,226000,76000
+United States,2055,129900,227300,76400
+United States,2056,130600,228500,76700
+United States,2057,131200,229700,77200
+United States,2058,131700,230900,77600
+United States,2059,132200,232200,77900
+United States,2060,132800,233400,78200
+United States,2061,133300,234700,78500
+United States,2062,133900,236000,78900
+United States,2063,134600,237300,79200
+United States,2064,135200,238600,79500
+United States,2065,136000,239900,79900
+United States,2066,136700,241300,80200
+United States,2067,137400,242600,80600
+United States,2068,138100,243800,81000
+United States,2069,138800,245000,81400
+United States,2070,139500,246200,81800
+United States,2071,140100,247300,82200
+United States,2072,140800,248500,82600
+United States,2073,141500,249800,83000
+United States,2074,142300,251200,83500
+United States,2075,143200,252600,83900
+United States,2076,144000,254200,84400
+United States,2077,144800,255700,84900
+United States,2078,145500,257200,85400
+United States,2079,146200,258700,85900
+United States,2080,147100,260200,86300
+United States,2081,147900,261800,86900
+United States,2082,148800,263400,87400
+United States,2083,149700,265000,88100
+United States,2084,150600,266700,88700
+United States,2085,151600,268500,89200
+United States,2086,152600,270400,89800
+United States,2087,153800,272500,90400
+United States,2088,154900,274600,91100
+United States,2089,156100,277000,91700
+United States,2090,157400,279400,92500
+United States,2091,158700,282000,93400
+United States,2092,160100,284700,94300
+United States,2093,161600,287500,95200
+United States,2094,163100,290500,96100
+United States,2095,164800,293700,97000
+United States,2096,166400,296800,97900
+United States,2097,167900,299900,98900
+United States,2098,169300,303100,99900
+United States,2099,170700,306100,100800
+United States,2100,172000,309000,101600
+United States,2101,173200,311800,102400
+United States,2102,174400,314800,103200
+United States,2103,175700,318100,103900
+United States,2104,177100,321700,104600
+United States,2105,178700,325400,105500
+United States,2106,180300,329300,106300
+United States,2107,182000,333100,107200
+United States,2108,183700,336800,108100
+United States,2109,185300,340300,108900
+United States,2110,186800,343500,109700
+United States,2111,188200,346600,110500
+United States,2112,189600,349400,111300
+United States,2113,190900,352000,112100
+United States,2114,192100,354100,112700
+United States,2115,193300,356100,113400
+United States,2116,194500,358200,114200
+United States,2117,195500,359900,114800
+United States,2118,196600,361400,115400
+United States,2119,197500,362500,115900
+United States,2120,198200,363100,116400
+United States,2121,198700,363500,116800
+United States,2122,199100,363600,117200
+United States,2123,199300,363600,117400
+United States,2124,199500,363600,117600
+United States,2125,199700,363700,117800
+United States,2126,199900,363600,117800
+United States,2127,200100,363500,117900
+United States,2128,200400,363300,118000
+United States,2129,200500,362700,118000
+United States,2130,200000,361800,117800
+United States,2131,199200,360500,117700
+United States,2132,198400,358900,117400
+United States,2133,197700,357200,117100
+United States,2134,196700,355200,116800
+United States,2135,195700,353000,116300
+United States,2136,194600,350500,115600
+United States,2137,193300,348000,114900
+United States,2138,191900,345200,114100
+United States,2139,190400,342500,113200
+United States,2140,188800,339700,112300
+United States,2141,187000,336800,111200
+United States,2142,185100,333800,110100
+United States,2143,183400,330900,108800
+United States,2144,181700,328100,107200
+United States,2145,180000,325500,105700
+United States,2146,178500,323000,104200
+United States,2147,177000,320600,102800
+United States,2148,175600,318400,101300
+United States,2149,174300,316300,100000
+United States,2150,173000,314200,98600
+United States,2151,171600,312000,97200
+United States,2152,170100,309600,95800
+United States,2153,168500,306900,94300
+United States,2154,166800,304200,92800
+United States,2155,165700,302300,91500
+United States,2156,164800,300900,90500
+United States,2157,164000,300000,89600
+United States,2158,163400,299300,89000
+United States,2159,163100,298800,88500
+United States,2160,163000,298600,88200
+United States,2161,163000,298600,88100
+United States,2162,163200,298900,88200
+United States,2163,162800,298200,87800
+United States,2164,161900,296500,87200
+United States,2165,161400,295300,86800
+United States,2166,161400,294700,86600
+United States,2167,160900,293400,86200
+United States,2168,160100,291800,85800
+United States,2169,159200,290200,85400
+United States,2170,158300,288700,84700
+United States,2171,157600,287300,83900
+United States,2172,156600,285700,83100
+United States,2173,155300,284000,82300
+United States,2174,154300,282500,81700
+United States,2175,153500,281500,81000
+United States,2176,152800,280600,80200
+United States,2177,152200,279900,79500
+United States,2178,151600,279200,78900
+United States,2179,150900,278500,78300
+United States,2180,150400,277900,77800
+United States,2181,149900,277400,77400
+United States,2182,149600,277100,77000
+United States,2183,149400,276900,76700
+United States,2184,149200,276900,76300
+United States,2185,148800,276800,76000
+United States,2186,148700,276800,75800
+United States,2187,148800,277100,75800
+United States,2188,149100,278000,75900
+United States,2189,149500,278900,76000
+United States,2190,149900,279800,75900
+United States,2191,150300,280800,76000
+United States,2192,150800,281800,76200
+United States,2193,151400,282800,76400
+United States,2194,151900,283800,76500
+United States,2195,152400,285000,76800
+United States,2196,153100,286300,77200
+United States,2197,153700,287500,77400
+United States,2198,154300,288700,77600
+United States,2199,155200,290200,78100
+United States,2200,156200,292100,78500
+United States,2201,157100,294100,78900
+United States,2202,158100,296100,79400
+United States,2203,159300,298300,80100
+United States,2204,160300,300500,80700
+United States,2205,161300,302500,81000
+United States,2206,162200,304100,81300
+United States,2207,162900,305300,81700
+United States,2208,163500,306300,82200
+United States,2209,164400,307500,82400
+United States,2210,165000,308800,82600
+United States,2211,165700,310100,83000
+United States,2212,166500,311300,83600
+United States,2213,167300,312700,84200
+United States,2214,167900,314000,84700
+United States,2215,168700,315300,85100
+United States,2216,169500,316700,85500
+United States,2217,170100,318000,86000
+United States,2218,170600,319000,86500
+United States,2219,171200,319800,86700
+United States,2220,171700,320700,87100
+United States,2221,172300,321600,87600
+United States,2222,173000,322400,87900
+United States,2223,173700,323500,88300
+United States,2224,174500,324700,88800
+United States,2225,175500,326400,89500
+United States,2226,176500,328000,90200
+United States,2227,177500,329400,90700
+United States,2228,178100,330600,91100
+United States,2229,178800,331800,91500
+United States,2230,179500,332800,92100
+United States,2231,180300,333800,92600
+United States,2232,181100,334900,93100
+United States,2233,181800,335900,93500
+United States,2234,182600,337000,94100
+United States,2235,183500,338400,94900
+United States,2236,184600,340300,95700
+United States,2237,185800,342000,96700
+United States,2238,186900,343600,97900
+United States,2239,188100,345300,98900
+United States,2240,189300,347100,100000
+United States,2241,190600,348700,101000
+United States,2242,191900,350400,102100
+United States,2243,192900,352000,103100
+United States,2244,193900,353600,104100
+United States,2245,195000,354900,105000
+United States,2246,196200,356200,106000
+United States,2247,197400,358000,107200
+United States,2248,198800,359800,108500
+United States,2249,200200,361400,109700
+United States,2250,201300,362600,110700
+United States,2251,202400,363600,111900
+United States,2252,203800,364600,113100
+United States,2253,205000,365700,114200
+United States,2254,205900,366700,115200
+United States,2255,206900,367700,116100
+United States,2256,207900,368900,116900
+United States,2257,209300,370600,117800
+United States,2258,210900,372500,119100
+United States,2259,212400,374100,120100
+United States,2260,213700,375300,121000
+United States,2261,215100,376900,122000
+United States,2262,216500,378300,122900
+United States,2263,217700,379700,123700
+United States,2264,219000,381000,124600
+United States,2265,220300,382400,125600
+United States,2266,221800,384200,126800
+United States,2267,223300,385900,128000
+United States,2268,224700,387400,128800
+United States,2269,225800,388900,129700
+United States,2270,226700,390500,130400
+United States,2271,227000,391100,130500
+United States,2272,226800,390800,130000
+"New York, NY",2271,227000,391100,130500
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
+"New York, NY",,,,
